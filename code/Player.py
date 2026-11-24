@@ -6,5 +6,8 @@ from Entity import Entity
 
 class Player(Entity):
 
+    def update(self):
+        pass
+
     def move(self) -> -> None:
         pass

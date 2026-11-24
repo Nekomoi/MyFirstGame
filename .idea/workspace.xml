@@ -4,16 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9387b491-1589-4a99-8c9d-a1c1db4f3f0e" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/code/Background.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/Enemy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/Entity.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/EntityFactory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/Game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/Level.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/Menu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/Player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/__init__.py" afterDir="false" />
+    <list default="true" id="9387b491-1589-4a99-8c9d-a1c1db4f3f0e" name="Changes" comment="adding classes generated from star uml">
+      <change beforePath="$PROJECT_DIR$/code/Entity.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Entity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/Level.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Level.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/Player.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +65,11 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\moise\PycharmProjects\trabalhojogo\code" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -108,11 +109,20 @@
       <option name="project" value="LOCAL" />
       <updated>1795558612713</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="adding classes generated from star uml">
+      <option name="closed" value="true" />
+      <created>1795560668240</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1795560668240</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="adding classes generated from star uml" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding classes generated from star uml" />
   </component>
 </project>

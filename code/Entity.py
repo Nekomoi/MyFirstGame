@@ -1,12 +1,10 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-class Entity:
+from typing import Protocol
 
-    def __init__(self):
-        self.name: str = None
-        self.surf: Surface = None
-        self.rect: Rect = None
+
+class Entity(Protocol):
 
     def move(self) -> -> None:
         pass
