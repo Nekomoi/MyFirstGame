@@ -5,16 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9387b491-1589-4a99-8c9d-a1c1db4f3f0e" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Background.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Enemy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Entity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/EntityFactory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Level.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Nekomoi"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Nekomoi/MyFirstGame.git",
@@ -44,6 +65,7 @@
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/moise/PycharmProjects/trabalhojogo/code",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
@@ -78,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1795558191798</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1795558612713</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1795558612713</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
